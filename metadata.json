@@ -1,0 +1,6 @@
+{
+  "name": "Forex Trading Journal & AI Assistant",
+  "description": "A professional Forex trading journal, analytics dashboard, educational hub, and AI-powered trading assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
